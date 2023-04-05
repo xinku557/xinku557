@@ -32,5 +32,17 @@
       "icon": "ri-github-line",
       "src": "https://github.com/sheinko557"
     }
+  ],
+  "contact_me": [
+    {
+      "name": "Instagram",
+      "icon": "ri-telegram-line",
+      "src": "https://t.me/errorx500"
+    },
+    {
+      "name": "Mail",
+      "icon": "ri-mail-send-fill",
+      "src": "mailto:sheinko557@gmail.com"
+    }
   ]
 }
