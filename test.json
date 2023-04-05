@@ -4,16 +4,45 @@
   "position": "Full-Stack Developer",
   "experience": "+3",
   "completed_project": "15+",
-  "ig_username": "sheinko557",
-  "twitter_username": "sheinko557",
-  "git_username": "sheinko557",
-  "tg_username": "errorx500",
-  "messenger_username": "julia.million.557",
-  "project_list": [],
+  "project_list": [
+    {
+      "name": "Project One",
+      "languages": ["1", "2"],
+      "thumbnail": "https://heywise.mblycdn.com/hw/resized/2020/07/770x480/shutterstock_1566014767.jpg",
+      "link": "https://google.com"
+    },
+    {
+      "name": "Project Two",
+      "languages": ["Laravel", "Flutter"],
+      "thumbnail": "https://cdn.vox-cdn.com/thumbor/I7I0t87KZ-vf_GSWrH118jwl6d0=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23437452/The_Spy_x_Family_Anime_Succeeds_Because_of_Its_Characters_.jpg",
+      "link": "https://google.com"
+    }
+  ],
   "skills": [
     {
       "name": "Frontend Development",
-      "data": [{ "name": "HTML", "level": "Intermediate" }]
+      "data": [
+        { "name": "HTML", "level": "Intermediate" },
+        { "name": "CSS", "level": "Intermediate" },
+        { "name": "JS", "level": "Intermediate" },
+        { "name": "React", "level": "Basic" },
+        { "name": "Vue", "level": "Intermediate" },
+        { "name": "Angular", "level": "Intermediate" },
+        { "name": "Flutter", "level": "Basic" }
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "data": [
+        { "name": "PHP", "level": "Intermediate" },
+        { "name": "Node.js", "level": "Intermediate" },
+        { "name": "Python", "level": "Intermediate" },
+        { "name": "Golang", "level": "Basic" }
+      ]
+    },
+    {
+      "name": "Databases",
+      "data": [{ "name": "Mysql", "level": "Intermediate" }]
     }
   ],
   "socials": [
