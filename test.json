@@ -1,0 +1,36 @@
+{
+  "name": "Wuu Wuu War War",
+  "profile_img": "https://avatars.githubusercontent.com/u/112676907?v=4",
+  "position": "Full-Stack Developer",
+  "experience": "+3",
+  "completed_project": "15+",
+  "ig_username": "sheinko557",
+  "twitter_username": "sheinko557",
+  "git_username": "sheinko557",
+  "tg_username": "errorx500",
+  "messenger_username": "julia.million.557",
+  "project_list": [],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "data": [{ "name": "HTML", "level": "Intermediate" }]
+    }
+  ],
+  "socials": [
+    {
+      "name": "Instagram",
+      "icon": "ri-instagram-line",
+      "src": "https://www.instagram.com/sheinko557"
+    },
+    {
+      "name": "Twitter",
+      "icon": "ri-twitter-line",
+      "src": "https://twitter.com/sheinko557"
+    },
+    {
+      "name": "Github",
+      "icon": "ri-github-line",
+      "src": "https://github.com/sheinko557"
+    }
+  ]
+}
